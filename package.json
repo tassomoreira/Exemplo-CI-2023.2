@@ -1,0 +1,15 @@
+{
+  "name": "exemplo-ci-2023.2",
+  "version": "1.0.0",
+  "description": "Exemplo de integração contínua feito em sala",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
